@@ -3,80 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://patelyogini3.github.io/projects/creating-a-new-theme/</loc>
+    <loc>https://patelyogini.com/projects/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://patelyogini3.github.io/about/</loc>
+    <loc>https://patelyogini.com/about/</loc>
     <lastmod>2020-09-01T14:19:26-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://patelyogini3.github.io/series/hugo-101/</loc>
+    <loc>https://patelyogini.com/series/hugo-101/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://patelyogini3.github.io/projects/</loc>
+    <loc>https://patelyogini.com/projects/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://patelyogini3.github.io/series/</loc>
+    <loc>https://patelyogini.com/series/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://patelyogini3.github.io/fr/series/"
+                href="https://patelyogini.com/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://patelyogini3.github.io/series/"
+                href="https://patelyogini.com/series/"
                 />
   </url>
   
   <url>
-    <loc>https://patelyogini3.github.io/</loc>
+    <loc>https://patelyogini.com/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://patelyogini3.github.io/fr/"
+                href="https://patelyogini.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://patelyogini3.github.io/"
+                href="https://patelyogini.com/"
                 />
   </url>
   
   <url>
-    <loc>https://patelyogini3.github.io/categories/</loc>
+    <loc>https://patelyogini.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://patelyogini3.github.io/fr/categories/"
+                href="https://patelyogini.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://patelyogini3.github.io/categories/"
+                href="https://patelyogini.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://patelyogini3.github.io/tags/</loc>
+    <loc>https://patelyogini.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://patelyogini3.github.io/fr/tags/"
+                href="https://patelyogini.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://patelyogini3.github.io/tags/"
+                href="https://patelyogini.com/tags/"
                 />
   </url>
   
