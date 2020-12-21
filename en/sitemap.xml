@@ -3,53 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://patelyogini.com/projects/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://patelyogini.com/about/</loc>
     <lastmod>2020-09-01T14:19:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patelyogini.com/series/hugo-101/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patelyogini.com/projects/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patelyogini.com/series/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://patelyogini.com/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://patelyogini.com/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://patelyogini.com/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://patelyogini.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://patelyogini.com/"
-                />
   </url>
   
   <url>
@@ -67,6 +22,20 @@
   </url>
   
   <url>
+    <loc>https://patelyogini.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://patelyogini.com/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://patelyogini.com/series/"
+                />
+  </url>
+  
+  <url>
     <loc>https://patelyogini.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -77,6 +46,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://patelyogini.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://patelyogini.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://patelyogini.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://patelyogini.com/"
                 />
   </url>
   
